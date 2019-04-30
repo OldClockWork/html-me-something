@@ -1,0 +1,22 @@
+
+
+.OP{
+    height: 500px;
+}
+
+.OC{
+    height: 250px;
+}
+
+.place{
+    height: 300px;
+}
+
+#pic{
+    height: 200px;
+}
+
+body{
+    background: black;
+    color: gold;
+}
