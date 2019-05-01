@@ -2,6 +2,7 @@
 
 .OP{
     height: 500px;
+    margin-left:400px; 
 }
 
 .OC{
@@ -10,10 +11,21 @@
 
 .place{
     height: 300px;
+    margin: 50px;
+    padding: 30px
 }
 
 #pic{
     height: 200px;
+    padding: 30px;
+    margin-left: 200px;
+}
+
+#pic2{
+    height: 200px;
+    margin-left: 490px;
+    padding: 30px;
+
 }
 
 body{
